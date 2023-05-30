@@ -70,10 +70,12 @@ Please make sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md) in all your
 
 <table>
     <tr>
-        <td align = "center"> <img src="./static/gif/result.gif"></td>
+        <td align = "center"> <img src="./static/gif/map_1.gif"></td>
+        <td align = "center"> <img src="./static/gif/map_2.gif"></td>
     </tr>
     <tr>
-        <td align = "center">Trajectory 1</td>
+        <td align = "center">Environment 1</td>
+        <td align = "center">Environment 2</td>
     </tr>
 </table>
 
