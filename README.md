@@ -66,13 +66,20 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 Please make sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions. -->
 
+## Results
+
+<table>
+    <tr>
+        <td align = "center"> <img src="./static/gif/result.gif"></td>
+    </tr>
+    <tr>
+        <td align = "center">Trajectory 1</td>
+    </tr>
+</table>
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-We would like to thank the contributors and researchers who have provided valuable insights and resources for this project.
 
 ## Contact
 
