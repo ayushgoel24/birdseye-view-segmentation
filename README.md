@@ -12,7 +12,7 @@ The aim of perception for autonomous vehicles is to extract semantic representat
 
 The core idea is to "lift" each image individually into a frustum of features for each camera and then "splat" all the frustums into a rasterized bird's-eye-view grid. By training on the entire camera rig, the model learns how to represent images and fuse predictions from all cameras into a single cohesive representation of the scene, even in the presence of calibration errors.
 
-Additionally, =the representations inferred by the model enable interpretable end-to-end motion planning by "shooting" template trajectories into a bird's-eye-view cost map output by the network.
+Additionally, the representations inferred by the model enable interpretable end-to-end motion planning by "shooting" template trajectories into a bird's-eye-view cost map output by the network.
 
 ## Key Features
 
@@ -37,7 +37,7 @@ Additionally, =the representations inferred by the model enable interpretable en
    ```bash
    pip install -r requirements.txt
    ```
-
+TODO: Update the usage section
 <!-- ## Usage
 
 1. Prepare your dataset by following the instructions in the `data/README.md` file.
